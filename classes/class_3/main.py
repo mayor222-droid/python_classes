@@ -49,11 +49,11 @@ composition2=f"My name is {student.get("name")} and I am {student.get("age")} ye
 
 # dictionary methods
 # keys()
-# print(f'keys are: {student.keys()}')
+print(f'keys are: {student.keys()}')
 # values()
-# print(f'values are: {student.values()}')
+print(f'values are: {student.values()}')
 # items()
-# print(f'items are: {student.items()}')
+print(f'items are: {student.items()}')
 
 #get 
 print(student.get('nationality'))
