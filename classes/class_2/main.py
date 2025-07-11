@@ -5,6 +5,14 @@ print(len(friends))
 friends[2]="omowumi"
 print(friends)
 
+# [square brackets] are used to access items in a list
+# ( braces) are used to access items in a tuple
+#{ curly braces} are used to access items in a dictionary
+# {   "key": "value",}
+# {set of items}
+# {1,2,3,4,5,6,7,8,9,10}
+animals =("dog", "cat", "lion", "tiger", "elephant",'cat', 'dog', 'giraffe')
+print(animals.count('cat'))
 shopping_cart =[
 98.99,
 "shoes",
