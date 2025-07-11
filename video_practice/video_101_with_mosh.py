@@ -218,5 +218,3 @@ def increment(number, by=1):
 result = increment(2,5)
 print(result)
 
-
-    
